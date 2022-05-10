@@ -8,5 +8,5 @@ def hello_world():  # put application's code here
     return 'Hello Vercel World!'
 
 
-if __name__ == '__main__':
-    app.run()
+# if __name__ == '__main__':
+#     app.run()
